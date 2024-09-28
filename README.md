@@ -1,7 +1,7 @@
 # Vesta E-Commerce Fraud Detection Project Summary
 
 ## Introduction
-This project aims to enhance fraud detection systems within the e-commerce sector by analyzing a substantial dataset of real-world transactions in partnership with IEEE-CIS and Vesta Corporation.
+This project aims to enhance fraud detection systems within the e-commerce sector by analyzing a substantial dataset of real-world transactions of Vesta Corporation.
 
 ## Dataset
 - **Size**: 590,540 transactions with 434 features
