@@ -2,8 +2,6 @@
 
 This project seeks to design a foundational fraud detection system to identify suspicious credit card transactions. By employing supervised learning techniques, it establishes a critical framework to address and mitigate the challenges of credit card fraud faced by financial institutions.
 
-![alt text](<Fraud Detection.png>)
-
 ## **Table of Contents**
 
 - [Technologies Used](#technologies-used)
