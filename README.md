@@ -1,8 +1,6 @@
-# **Fraud Detection with Supervised Learning**
+# **Fraud Detection in credit card transactions**
 
-The project aims to develop a baseline fraud detection system to identify potentially fraudulent credit card transactions. Utilising supervised learning techniques, this project serves as a foundational model for understanding and addressing credit card fraud issues faced by financial institutions.
-
-## If you find this project useful, please consider giving it a star ⭐ on GitHub. Contributions are also welcome!
+This project seeks to design a foundational fraud detection system to identify suspicious credit card transactions. By employing supervised learning techniques, it establishes a critical framework to address and mitigate the challenges of credit card fraud faced by financial institutions.
 
 ![alt text](<Fraud Detection.png>)
 
@@ -13,9 +11,6 @@ The project aims to develop a baseline fraud detection system to identify potent
 - [Installation](#installation)
 - [Usage](#usage)
 - [Features](#features)
-- [Contributing](#contributing)
-- [License](#license)
-- [Contact](#contact)
 
 ## **Technologies Used**
 
@@ -95,18 +90,3 @@ Then open your browser and go to http://localhost:8501.
 
 ## **Contributing**
 Contributions are welcome, If you have suggestions for improvements or want to contribute to this project, please fork the repository and create a pull request.
-
-### **How to Contribute**
-```bash
-Fork the repository.
-Create a new feature branch (git checkout -b feature-name).
-Commit your changes (git commit -m 'Add some feature').
-Push to the branch (git push origin feature-name).
-Open a pull request.
-```
-
-## **License**
-his project is licensed under the MIT License. See the LICENSE file for more information.
-
-## **Contact**
-For any inquiries or feedback, please contact me at https://nafisalawalidris.github.io/13/.
